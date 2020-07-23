@@ -1,4 +1,4 @@
-# courses_candela
+# Courses
 
 To run the project, perform following actions.
 
