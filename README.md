@@ -7,9 +7,9 @@ To run the project, perform following actions.
 - npm start
 - To run testcases, you can run npm test
 
-# Mongo setup
+## Mongo setup
 
-Basically, I'm using cloud.mongo.com service for setting up NqSQL databse.
+Basically, this app is using cloud.mongo.com service for setting up NoSQL databse.
 You can setup cloud.mongo using following steps
 
 - Open cloud.mongo.com
