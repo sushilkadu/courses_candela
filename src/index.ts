@@ -18,7 +18,7 @@ const start = async () => {
   }
 };
 
-app.listen(4000, () => {
+app.listen(process.env.PORT, () => {
   console.log("Course Service is listening on port 4000");
 });
 
